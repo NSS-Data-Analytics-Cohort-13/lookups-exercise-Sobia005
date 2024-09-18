@@ -16,4 +16,4 @@ Challenge Questions (Save for last):
 
 7. Modify your formulas from questions 3-5 using MATCH so that you can pull the formula both down and sideways to fill in the entire table.
 8. Use XLOOKUP to find, for each financial year, the three highest ranked departments in terms of the percentage below budget their actual spending was. Bonus: Combine XLOOKUP with INDEX and MATCH in order to write two formulas that can be copied and pasted to fill in the table.
-9. Do the same as above, but using only INDEX and MATCH.
+9. Do the same as above, but using only INDEX and MATCH.q	
